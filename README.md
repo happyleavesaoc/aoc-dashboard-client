@@ -36,6 +36,7 @@ resign | 0-n | yes | n: number of players
  - canvasjs 1.6.1
  - [progressbarjs 0.7.4](https://github.com/kimmobrunfeldt/progressbar.js)
  - [i18next 1.7.7](https://github.com/i18next/i18next)
+ - [d3 3.5.5](https://github.com/mbostock/d3)
 
 ### Contribution
  - Pull requests & patches welcome
